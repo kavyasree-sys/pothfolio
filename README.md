@@ -1,2 +1,2 @@
 # pothfolio
-<h1>this is my porthfolio
+<h1>this is my portfolio
